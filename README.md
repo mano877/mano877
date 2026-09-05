@@ -3,10 +3,13 @@
 ### AI Solutions Engineer · Backend Developer · Web Developer
 
 **Turning business challenges into intelligent digital solutions.**
-LinkedIn: https://www.linkedin.com/in/eman-bashir-48b9392a7/
-Portfolio: https://portfolio-git-main-eman-fd69.vercel.app/
 
-I build practical software that combines **AI, backend engineering, web development, and automation** to solve real-world problems.
+I build practical solutions using **AI, backend engineering, web development, WordPress, and automation.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eman-bashir-48b9392a7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](https://portfolio-git-main-eman-fd69.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github)](https://github.com/mano877)
+
 
 ## 🧠 What I Build
 
