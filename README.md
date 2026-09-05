@@ -4,11 +4,10 @@
 
 **Turning business challenges into intelligent digital solutions.**
 
-I build practical solutions using **AI, backend engineering, web development, WordPress, and automation.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-bashir-48b9392a7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-git-main-eman-fd69.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eman-bashir-48b9392a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](https://portfolio-git-main-eman-fd69.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github)](https://github.com/mano877)
+I build practical solutions using **AI, backend engineering, web development, WordPress, and automation.**
 
 
 ## 🧠 What I Build
@@ -46,21 +45,17 @@ I started with backend development and gradually moved toward building complete 
 
 ## 🛠️ Projects
 
-**🏥 Medical Document Assistant**
-AI-powered document search and question-answering using RAG and vector search.
-https://github.com/mano877/medical-chatbot-frontend
+### 🏥 [Medical Document Assistant](https://github.com/mano877/medical-chatbot-frontend)
+AI-powered medical assistant with private conversations, chat history, AI-generated insights, and document-based RAG.
 
-**💬 AI Customer Care Bot**
+### 💬 [AI Customer Care Bot](https://github.com/mano877/ai-customer-care-frontend)
 Conversational AI designed to help businesses handle customer enquiries.
-https://github.com/mano877/ai-customer-care-frontend
 
-**📋 Task Manager API**
+### 📋 [Task Manager API](https://github.com/mano877/task-manager-frontend)
 Production-style backend with authentication, PostgreSQL, migrations, testing, and Docker.
-https://github.com/mano877/task-manager-frontend
 
-**🍽️ RestoBot**
+### 🍽️ [RestoBot](https://github.com/mano877/restobot-frontend)
 AI restaurant assistant focused on customer interaction and information retrieval.
-https://github.com/mano877/restobot-frontend
 
 ## 🚀 How I Think About Development
 
