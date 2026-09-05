@@ -48,15 +48,19 @@ I started with backend development and gradually moved toward building complete 
 
 **🏥 Medical Document Assistant**
 AI-powered document search and question-answering using RAG and vector search.
+https://github.com/mano877/medical-chatbot-frontend
 
 **💬 AI Customer Care Bot**
 Conversational AI designed to help businesses handle customer enquiries.
+https://github.com/mano877/ai-customer-care-frontend
 
 **📋 Task Manager API**
 Production-style backend with authentication, PostgreSQL, migrations, testing, and Docker.
+https://github.com/mano877/task-manager-frontend
 
 **🍽️ RestoBot**
 AI restaurant assistant focused on customer interaction and information retrieval.
+https://github.com/mano877/restobot-frontend
 
 ## 🚀 How I Think About Development
 
