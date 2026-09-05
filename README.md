@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-bashir-48b9392a7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-git-main-eman-fd69.vercel.app/)
 
-I build practical solutions using **AI, backend engineering, web development, WordPress, and automation.**
+I build complete digital solutions, from backend APIs and AI systems to modern web applications and WordPress websites.
 
 
 ## 🧠 What I Build
@@ -37,7 +37,6 @@ I build complete digital solutions, from backend APIs and databases to AI-powere
 - Vite
 - JavaScript / TypeScript
 - Tailwind CSS
-- WordPress
 - Responsive Websites
 - Business Websites
 - WordPress Development
