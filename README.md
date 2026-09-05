@@ -12,13 +12,12 @@ I build practical solutions using **AI, backend engineering, web development, Wo
 
 ## 🧠 What I Build
 
-I started with backend development and gradually moved toward building complete solutions, from APIs and databases to AI-powered systems and modern web interfaces.
-
+I build complete digital solutions, from backend APIs and databases to AI-powered systems and modern web experiences.
 ### 🤖 AI & Automation
 
 * RAG & AI Knowledge Bases
 * AI Customer Support
-* Document Assistants
+* AI Document Assistants
 * Conversational AI
 * Business Automation
 
@@ -41,12 +40,13 @@ I started with backend development and gradually moved toward building complete 
 - WordPress
 - Responsive Websites
 - Business Websites
+- WordPress Development
 - Dashboards & Full-Stack Applications
 
 ## 🛠️ Projects
 
 ### 🏥 [Medical Document Assistant](https://github.com/mano877/medical-chatbot-frontend)
-AI-powered medical assistant with private conversations, chat history, AI-generated insights, and document-based RAG.
+AI-powered medical assistant with document-based RAG, chat history, and AI-generated insights.
 
 ### 💬 [AI Customer Care Bot](https://github.com/mano877/ai-customer-care-frontend)
 Conversational AI designed to help businesses handle customer enquiries.
@@ -64,26 +64,34 @@ I don't start with a technology.
 I start with a **problem**.
 
 ```text
-Problem → Solution → Backend → AI/Automation → Web → Testing → Deployment
+Problem
+   ↓
+Solution
+   ↓
+Backend + AI
+   ↓
+Web Experience
+   ↓
+Testing
+   ↓
+Deployment
 ```
 
-The goal is simple:
+**The goal is simple: build technology that is actually useful.**
 
-**Build technology that is actually useful.**
-
-## 🎯 Currently Exploring
+## 🚀 Currently Building & Exploring
 
 **AI Engineering · Backend Architecture · Web Development · Automation · RAG · SaaS**
 
-I'm continuously working on building better, more scalable applications and turning ideas into working products.
+I'm continuously improving my skills by building practical applications and turning ideas into working products.
 
 ## 🤝 Let's Connect
 
-Interested in **AI, backend systems, web applications, or automation**?
+Interested in **AI, backend systems, web development, or automation**?
 
-Let's build something useful. 🚀
+Feel free to explore my repositories or connect with me.
 
-⭐ Explore my repositories and see what I'm building.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-bashir-48b9392a7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-git-main-eman-fd69.vercel.app/)
 
 
